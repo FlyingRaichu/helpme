@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="newGame">New Game</string>
+    <string name="showparticles">Particles</string>
+    <string name="Shop">Shop</string>
+    <string name="evoshop">Evolution shop</string>
+    <string name="protein">Proteins</string>
+    <string name="dna">DNA</string>
+    <string name="prokaryote">Prokaryote</string>
+    <string name="bacteria">Bacteria</string>
+    <string name="eukaryote">Eukaryote</string>
+    <string name="colony">Colony</string>
+    <string name="fungus">Fungus</string>
+    <string name="plant">Plant</string>
+    <string name="animal">Animal</string>
+    <string name="points">Points:</string>
+    <string name="congratzmsg">You made it!</string>
+    <string name="tuthabmsg">     You have officially made your planet able to support life. You will see a new button has appeared, the Evolution shop, as well as a new particle type, matter. Collect matter and evolve life on your planet. When you get to 10 animals, you gain a new matter particle.</string>
+    <string name="tutinitimsg"> It is a game about collecting particles and turning into different types of planets. Currently, you can transform into a few planets, but only the habitable planet type is playable, so i suggest you start with it.</string>
+    <string name="confrmbtnmsg">Got it!</string>
+    <string name="welcome">Welcome to Planetcraft!</string>
+    <string name="particlecount">Particles count</string>
+    <string name="h20">H2O:</string>
+    <string name="gas">Gas:</string>
+    <string name="matter">Matter:</string>
+    <string name="metal">Metal:</string>
+    <string name="rock">Rock:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="x">X</string>
+    <string name="save">Save Game</string>
+    <string name="mainmenu">Main Menu</string>
+</resources>

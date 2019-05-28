@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="colorPrimary">#4c5c77</color>
+    <color name="colorPrimaryDark">#4b5c77</color>
+    <color name="colorAccent">#4c5c77</color>
+    <color name="colorbuttons">#4b5c77</color>
+    <color name="colorbuttonsdark">#3f5372</color>
+    <color name="colorNewgame">#FF0000</color>
+    <color name="colorSave">#00b703</color>
+    <color name="colorShop">#FF8800</color>
+</resources>
